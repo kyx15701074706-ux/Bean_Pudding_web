@@ -1,0 +1,1632 @@
+{
+  "count": 144,
+  "source": "../source-multi-palettes.jpg",
+  "source_sha256": "7715ba7a21eaa293ac013f1bbc8411e6d4d58d0b98227de5261c117a6abefee6",
+  "source_size": [
+    1180,
+    1536
+  ],
+  "shared_palette": "../bead-colors-221/bead-colors-221.json",
+  "shared_palette_sha256": "d9a23ec4d39e1bf92fc0541c93c5aee7e0d906c811d7bda85d5b45bfdfd8756a",
+  "rows": [
+    [
+      "A1",
+      "A2",
+      "A3",
+      "A5",
+      "A6",
+      "A7",
+      "A8",
+      "A9",
+      "A11"
+    ],
+    [
+      "A13",
+      "A16",
+      "A17",
+      "A20",
+      "A21",
+      "A24",
+      "A25",
+      "A26",
+      "B1"
+    ],
+    [
+      "B2",
+      "B3",
+      "B6",
+      "B7",
+      "B8",
+      "B10",
+      "B11",
+      "B12",
+      "B13"
+    ],
+    [
+      "B14",
+      "B15",
+      "B17",
+      "B18",
+      "B19",
+      "B20",
+      "B22",
+      "B23",
+      "B28"
+    ],
+    [
+      "B29",
+      "C1",
+      "C2",
+      "C3",
+      "C4",
+      "C5",
+      "C6",
+      "C7",
+      "C8"
+    ],
+    [
+      "C10",
+      "C11",
+      "C13",
+      "C15",
+      "C16",
+      "C19",
+      "C20",
+      "C22",
+      "C23"
+    ],
+    [
+      "C24",
+      "C26",
+      "C28",
+      "C29",
+      "D1",
+      "D2",
+      "D3",
+      "D4",
+      "D6"
+    ],
+    [
+      "D7",
+      "D8",
+      "D9",
+      "D11",
+      "D12",
+      "D13",
+      "D14",
+      "D15",
+      "D16"
+    ],
+    [
+      "D18",
+      "D19",
+      "D20",
+      "D21",
+      "D22",
+      "D24",
+      "D25",
+      "D26",
+      "E1"
+    ],
+    [
+      "E2",
+      "E3",
+      "E5",
+      "E6",
+      "E7",
+      "E11",
+      "E13",
+      "E14",
+      "E15"
+    ],
+    [
+      "E16",
+      "E19",
+      "E20",
+      "E24",
+      "F1",
+      "F2",
+      "F3",
+      "F4",
+      "F5"
+    ],
+    [
+      "F6",
+      "F8",
+      "F12",
+      "F13",
+      "F18",
+      "F24",
+      "F25",
+      "G1",
+      "G2"
+    ],
+    [
+      "G3",
+      "G5",
+      "G6",
+      "G7",
+      "G8",
+      "G9",
+      "G14",
+      "G15",
+      "G17"
+    ],
+    [
+      "G18",
+      "G20",
+      "H1",
+      "H2",
+      "H3",
+      "H4",
+      "H5",
+      "H6",
+      "H7"
+    ],
+    [
+      "H8",
+      "H9",
+      "H14",
+      "H15",
+      "H19",
+      "M1",
+      "M3",
+      "M4",
+      "M5"
+    ],
+    [
+      "M7",
+      "M8",
+      "M9",
+      "M10",
+      "M11",
+      "M12",
+      "M13",
+      "M14",
+      "M15"
+    ]
+  ],
+  "method": "共有编号（包括前导零写法）复用221色HEX，保留原始编号。X系列取标签下方880个RGB像素的通道中位数，numpy.rint取整。",
+  "swatches": [
+    {
+      "code": "A1",
+      "hex": "#FCFBDD",
+      "canonical_221_code": "A1",
+      "source_row": 1,
+      "source_column": 1,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "A2",
+      "hex": "#FFFDE4",
+      "canonical_221_code": "A2",
+      "source_row": 1,
+      "source_column": 2,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "A3",
+      "hex": "#FBFA9B",
+      "canonical_221_code": "A3",
+      "source_row": 1,
+      "source_column": 3,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "A5",
+      "hex": "#FCEA27",
+      "canonical_221_code": "A5",
+      "source_row": 1,
+      "source_column": 4,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "A6",
+      "hex": "#F6B950",
+      "canonical_221_code": "A6",
+      "source_row": 1,
+      "source_column": 5,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "A7",
+      "hex": "#F2964C",
+      "canonical_221_code": "A7",
+      "source_row": 1,
+      "source_column": 6,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "A8",
+      "hex": "#FCE82A",
+      "canonical_221_code": "A8",
+      "source_row": 1,
+      "source_column": 7,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "A9",
+      "hex": "#F59E4C",
+      "canonical_221_code": "A9",
+      "source_row": 1,
+      "source_column": 8,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "A11",
+      "hex": "#FAE5A2",
+      "canonical_221_code": "A11",
+      "source_row": 1,
+      "source_column": 9,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "A13",
+      "hex": "#F9D36A",
+      "canonical_221_code": "A13",
+      "source_row": 2,
+      "source_column": 1,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "A16",
+      "hex": "#FFFCA5",
+      "canonical_221_code": "A16",
+      "source_row": 2,
+      "source_column": 2,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "A17",
+      "hex": "#FCEC6F",
+      "canonical_221_code": "A17",
+      "source_row": 2,
+      "source_column": 3,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "A20",
+      "hex": "#FCE577",
+      "canonical_221_code": "A20",
+      "source_row": 2,
+      "source_column": 4,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "A21",
+      "hex": "#FBED96",
+      "canonical_221_code": "A21",
+      "source_row": 2,
+      "source_column": 5,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "A24",
+      "hex": "#F6F7B5",
+      "canonical_221_code": "A24",
+      "source_row": 2,
+      "source_column": 6,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "A25",
+      "hex": "#FBE592",
+      "canonical_221_code": "A25",
+      "source_row": 2,
+      "source_column": 7,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "A26",
+      "hex": "#FAD434",
+      "canonical_221_code": "A26",
+      "source_row": 2,
+      "source_column": 8,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "B1",
+      "hex": "#E7F135",
+      "canonical_221_code": "B1",
+      "source_row": 2,
+      "source_column": 9,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "B2",
+      "hex": "#41C446",
+      "canonical_221_code": "B2",
+      "source_row": 3,
+      "source_column": 1,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "B3",
+      "hex": "#96DA6E",
+      "canonical_221_code": "B3",
+      "source_row": 3,
+      "source_column": 2,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "B6",
+      "hex": "#62CC94",
+      "canonical_221_code": "B6",
+      "source_row": 3,
+      "source_column": 3,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "B7",
+      "hex": "#46C28B",
+      "canonical_221_code": "B7",
+      "source_row": 3,
+      "source_column": 4,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "B8",
+      "hex": "#20B361",
+      "canonical_221_code": "B8",
+      "source_row": 3,
+      "source_column": 5,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "B10",
+      "hex": "#A7DEC7",
+      "canonical_221_code": "B10",
+      "source_row": 3,
+      "source_column": 6,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "B11",
+      "hex": "#728745",
+      "canonical_221_code": "B11",
+      "source_row": 3,
+      "source_column": 7,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "B12",
+      "hex": "#22844D",
+      "canonical_221_code": "B12",
+      "source_row": 3,
+      "source_column": 8,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "B13",
+      "hex": "#D4EB84",
+      "canonical_221_code": "B13",
+      "source_row": 3,
+      "source_column": 9,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "B14",
+      "hex": "#B3E244",
+      "canonical_221_code": "B14",
+      "source_row": 4,
+      "source_column": 1,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "B15",
+      "hex": "#396843",
+      "canonical_221_code": "B15",
+      "source_row": 4,
+      "source_column": 2,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "B17",
+      "hex": "#B5CC49",
+      "canonical_221_code": "B17",
+      "source_row": 4,
+      "source_column": 3,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "B18",
+      "hex": "#EEF44B",
+      "canonical_221_code": "B18",
+      "source_row": 4,
+      "source_column": 4,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "B19",
+      "hex": "#2DC494",
+      "canonical_221_code": "B19",
+      "source_row": 4,
+      "source_column": 5,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "B20",
+      "hex": "#D1EED5",
+      "canonical_221_code": "B20",
+      "source_row": 4,
+      "source_column": 6,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "B22",
+      "hex": "#1D5755",
+      "canonical_221_code": "B22",
+      "source_row": 4,
+      "source_column": 7,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "B23",
+      "hex": "#424F36",
+      "canonical_221_code": "B23",
+      "source_row": 4,
+      "source_column": 8,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "B28",
+      "hex": "#93DBB1",
+      "canonical_221_code": "B28",
+      "source_row": 4,
+      "source_column": 9,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "B29",
+      "hex": "#CFEA53",
+      "canonical_221_code": "B29",
+      "source_row": 5,
+      "source_column": 1,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C1",
+      "hex": "#F0F9E8",
+      "canonical_221_code": "C1",
+      "source_row": 5,
+      "source_column": 2,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C2",
+      "hex": "#9EDDE1",
+      "canonical_221_code": "C2",
+      "source_row": 5,
+      "source_column": 3,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C3",
+      "hex": "#9FDEEC",
+      "canonical_221_code": "C3",
+      "source_row": 5,
+      "source_column": 4,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C4",
+      "hex": "#3EC9EC",
+      "canonical_221_code": "C4",
+      "source_row": 5,
+      "source_column": 5,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C5",
+      "hex": "#14BDEA",
+      "canonical_221_code": "C5",
+      "source_row": 5,
+      "source_column": 6,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C6",
+      "hex": "#2CBAED",
+      "canonical_221_code": "C6",
+      "source_row": 5,
+      "source_column": 7,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C7",
+      "hex": "#028BCB",
+      "canonical_221_code": "C7",
+      "source_row": 5,
+      "source_column": 8,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C8",
+      "hex": "#0661AF",
+      "canonical_221_code": "C8",
+      "source_row": 5,
+      "source_column": 9,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C10",
+      "hex": "#3BC7E8",
+      "canonical_221_code": "C10",
+      "source_row": 6,
+      "source_column": 1,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C11",
+      "hex": "#32C7BE",
+      "canonical_221_code": "C11",
+      "source_row": 6,
+      "source_column": 2,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C13",
+      "hex": "#C8E1EC",
+      "canonical_221_code": "C13",
+      "source_row": 6,
+      "source_column": 3,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C15",
+      "hex": "#2EC7C7",
+      "canonical_221_code": "C15",
+      "source_row": 6,
+      "source_column": 4,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C16",
+      "hex": "#0A6FB5",
+      "canonical_221_code": "C16",
+      "source_row": 6,
+      "source_column": 5,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C19",
+      "hex": "#1E9DB7",
+      "canonical_221_code": "C19",
+      "source_row": 6,
+      "source_column": 6,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C20",
+      "hex": "#1287C4",
+      "canonical_221_code": "C20",
+      "source_row": 6,
+      "source_column": 7,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C22",
+      "hex": "#7AC8D3",
+      "canonical_221_code": "C22",
+      "source_row": 6,
+      "source_column": 8,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C23",
+      "hex": "#C7E0EB",
+      "canonical_221_code": "C23",
+      "source_row": 6,
+      "source_column": 9,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C24",
+      "hex": "#74CEF1",
+      "canonical_221_code": "C24",
+      "source_row": 7,
+      "source_column": 1,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C26",
+      "hex": "#4AC2E2",
+      "canonical_221_code": "C26",
+      "source_row": 7,
+      "source_column": 2,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C28",
+      "hex": "#C3D9E8",
+      "canonical_221_code": "C28",
+      "source_row": 7,
+      "source_column": 3,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "C29",
+      "hex": "#3B5BA2",
+      "canonical_221_code": "C29",
+      "source_row": 7,
+      "source_column": 4,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D1",
+      "hex": "#9FC0E5",
+      "canonical_221_code": "D1",
+      "source_row": 7,
+      "source_column": 5,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D2",
+      "hex": "#7599CC",
+      "canonical_221_code": "D2",
+      "source_row": 7,
+      "source_column": 6,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D3",
+      "hex": "#036AB3",
+      "canonical_221_code": "D3",
+      "source_row": 7,
+      "source_column": 7,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D4",
+      "hex": "#2C3992",
+      "canonical_221_code": "D4",
+      "source_row": 7,
+      "source_column": 8,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D6",
+      "hex": "#915EA5",
+      "canonical_221_code": "D6",
+      "source_row": 7,
+      "source_column": 9,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D7",
+      "hex": "#945CA3",
+      "canonical_221_code": "D7",
+      "source_row": 8,
+      "source_column": 1,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D8",
+      "hex": "#CDC2DC",
+      "canonical_221_code": "D8",
+      "source_row": 8,
+      "source_column": 2,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D9",
+      "hex": "#C2B0D7",
+      "canonical_221_code": "D9",
+      "source_row": 8,
+      "source_column": 3,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D11",
+      "hex": "#BAC3E3",
+      "canonical_221_code": "D11",
+      "source_row": 8,
+      "source_column": 4,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D12",
+      "hex": "#E39EC7",
+      "canonical_221_code": "D12",
+      "source_row": 8,
+      "source_column": 5,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D13",
+      "hex": "#DD2A88",
+      "canonical_221_code": "D13",
+      "source_row": 8,
+      "source_column": 6,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D14",
+      "hex": "#AD338E",
+      "canonical_221_code": "D14",
+      "source_row": 8,
+      "source_column": 7,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D15",
+      "hex": "#3B2F85",
+      "canonical_221_code": "D15",
+      "source_row": 8,
+      "source_column": 8,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D16",
+      "hex": "#DCDFEC",
+      "canonical_221_code": "D16",
+      "source_row": 8,
+      "source_column": 9,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D18",
+      "hex": "#935BA4",
+      "canonical_221_code": "D18",
+      "source_row": 9,
+      "source_column": 1,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D19",
+      "hex": "#DCCDDF",
+      "canonical_221_code": "D19",
+      "source_row": 9,
+      "source_column": 2,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D20",
+      "hex": "#A83591",
+      "canonical_221_code": "D20",
+      "source_row": 9,
+      "source_column": 3,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D21",
+      "hex": "#AF268D",
+      "canonical_221_code": "D21",
+      "source_row": 9,
+      "source_column": 4,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D22",
+      "hex": "#294C9D",
+      "canonical_221_code": "D22",
+      "source_row": 9,
+      "source_column": 5,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D24",
+      "hex": "#4692CE",
+      "canonical_221_code": "D24",
+      "source_row": 9,
+      "source_column": 6,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D25",
+      "hex": "#0463AF",
+      "canonical_221_code": "D25",
+      "source_row": 9,
+      "source_column": 7,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D26",
+      "hex": "#D1C7DF",
+      "canonical_221_code": "D26",
+      "source_row": 9,
+      "source_column": 8,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "E1",
+      "hex": "#F4E3DE",
+      "canonical_221_code": "E1",
+      "source_row": 9,
+      "source_column": 9,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "E2",
+      "hex": "#F0C1D6",
+      "canonical_221_code": "E2",
+      "source_row": 10,
+      "source_column": 1,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "E3",
+      "hex": "#E7B2D2",
+      "canonical_221_code": "E3",
+      "source_row": 10,
+      "source_column": 2,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "E5",
+      "hex": "#F15499",
+      "canonical_221_code": "E5",
+      "source_row": 10,
+      "source_column": 3,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "E6",
+      "hex": "#EC4068",
+      "canonical_221_code": "E6",
+      "source_row": 10,
+      "source_column": 4,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "E7",
+      "hex": "#E73D7F",
+      "canonical_221_code": "E7",
+      "source_row": 10,
+      "source_column": 5,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "E11",
+      "hex": "#F5E8E0",
+      "canonical_221_code": "E11",
+      "source_row": 10,
+      "source_column": 6,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "E13",
+      "hex": "#E42968",
+      "canonical_221_code": "E13",
+      "source_row": 10,
+      "source_column": 7,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "E14",
+      "hex": "#F8E3C9",
+      "canonical_221_code": "E14",
+      "source_row": 10,
+      "source_column": 8,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "E15",
+      "hex": "#F8DAD6",
+      "canonical_221_code": "E15",
+      "source_row": 10,
+      "source_column": 9,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "E16",
+      "hex": "#FCF9F1",
+      "canonical_221_code": "E16",
+      "source_row": 11,
+      "source_column": 1,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "E19",
+      "hex": "#F2BCD0",
+      "canonical_221_code": "E19",
+      "source_row": 11,
+      "source_column": 2,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "E20",
+      "hex": "#E8D5DC",
+      "canonical_221_code": "E20",
+      "source_row": 11,
+      "source_column": 3,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "E24",
+      "hex": "#D9BBD5",
+      "canonical_221_code": "E24",
+      "source_row": 11,
+      "source_column": 4,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "F1",
+      "hex": "#F4997F",
+      "canonical_221_code": "F1",
+      "source_row": 11,
+      "source_column": 5,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "F2",
+      "hex": "#EE3F40",
+      "canonical_221_code": "F2",
+      "source_row": 11,
+      "source_column": 6,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "F3",
+      "hex": "#EE4431",
+      "canonical_221_code": "F3",
+      "source_row": 11,
+      "source_column": 7,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "F4",
+      "hex": "#EB3132",
+      "canonical_221_code": "F4",
+      "source_row": 11,
+      "source_column": 8,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "F5",
+      "hex": "#EB302C",
+      "canonical_221_code": "F5",
+      "source_row": 11,
+      "source_column": 9,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "F6",
+      "hex": "#B93F3F",
+      "canonical_221_code": "F6",
+      "source_row": 12,
+      "source_column": 1,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "F8",
+      "hex": "#E62E2E",
+      "canonical_221_code": "F8",
+      "source_row": 12,
+      "source_column": 2,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "F12",
+      "hex": "#F04C66",
+      "canonical_221_code": "F12",
+      "source_row": 12,
+      "source_column": 3,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "F13",
+      "hex": "#F05539",
+      "canonical_221_code": "F13",
+      "source_row": 12,
+      "source_column": 4,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "F18",
+      "hex": "#EC8C4E",
+      "canonical_221_code": "F18",
+      "source_row": 12,
+      "source_column": 5,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "F24",
+      "hex": "#EFAEC1",
+      "canonical_221_code": "F24",
+      "source_row": 12,
+      "source_column": 6,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "F25",
+      "hex": "#EB4448",
+      "canonical_221_code": "F25",
+      "source_row": 12,
+      "source_column": 7,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "G1",
+      "hex": "#FBEBDF",
+      "canonical_221_code": "G1",
+      "source_row": 12,
+      "source_column": 8,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "G2",
+      "hex": "#F7D0B2",
+      "canonical_221_code": "G2",
+      "source_row": 12,
+      "source_column": 9,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "G3",
+      "hex": "#F9D2B1",
+      "canonical_221_code": "G3",
+      "source_row": 13,
+      "source_column": 1,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "G5",
+      "hex": "#F3C959",
+      "canonical_221_code": "G5",
+      "source_row": 13,
+      "source_column": 2,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "G6",
+      "hex": "#F3AF33",
+      "canonical_221_code": "G6",
+      "source_row": 13,
+      "source_column": 3,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "G7",
+      "hex": "#BC6844",
+      "canonical_221_code": "G7",
+      "source_row": 13,
+      "source_column": 4,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "G8",
+      "hex": "#95493E",
+      "canonical_221_code": "G8",
+      "source_row": 13,
+      "source_column": 5,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "G9",
+      "hex": "#F3C68A",
+      "canonical_221_code": "G9",
+      "source_row": 13,
+      "source_column": 6,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "G14",
+      "hex": "#AE785E",
+      "canonical_221_code": "G14",
+      "source_row": 13,
+      "source_column": 7,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "G15",
+      "hex": "#F8FAEB",
+      "canonical_221_code": "G15",
+      "source_row": 13,
+      "source_column": 8,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "G17",
+      "hex": "#95655E",
+      "canonical_221_code": "G17",
+      "source_row": 13,
+      "source_column": 9,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "G18",
+      "hex": "#FAECE1",
+      "canonical_221_code": "G18",
+      "source_row": 14,
+      "source_column": 1,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "G20",
+      "hex": "#CC5139",
+      "canonical_221_code": "G20",
+      "source_row": 14,
+      "source_column": 2,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "H1",
+      "hex": "#FEFEFD",
+      "canonical_221_code": "H1",
+      "source_row": 14,
+      "source_column": 3,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "H2",
+      "hex": "#FFFFFD",
+      "canonical_221_code": "H2",
+      "source_row": 14,
+      "source_column": 4,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "H3",
+      "hex": "#CDCDCB",
+      "canonical_221_code": "H3",
+      "source_row": 14,
+      "source_column": 5,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "H4",
+      "hex": "#9B9FA4",
+      "canonical_221_code": "H4",
+      "source_row": 14,
+      "source_column": 6,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "H5",
+      "hex": "#545A64",
+      "canonical_221_code": "H5",
+      "source_row": 14,
+      "source_column": 7,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "H6",
+      "hex": "#3A3C42",
+      "canonical_221_code": "H6",
+      "source_row": 14,
+      "source_column": 8,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "H7",
+      "hex": "#151A1B",
+      "canonical_221_code": "H7",
+      "source_row": 14,
+      "source_column": 9,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "H8",
+      "hex": "#EDE4E3",
+      "canonical_221_code": "H8",
+      "source_row": 15,
+      "source_column": 1,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "H9",
+      "hex": "#FAF6F6",
+      "canonical_221_code": "H9",
+      "source_row": 15,
+      "source_column": 2,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "H14",
+      "hex": "#E1E6E2",
+      "canonical_221_code": "H14",
+      "source_row": 15,
+      "source_column": 3,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "H15",
+      "hex": "#AEBFC0",
+      "canonical_221_code": "H15",
+      "source_row": 15,
+      "source_column": 4,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "H19",
+      "hex": "#F9FAF5",
+      "canonical_221_code": "H19",
+      "source_row": 15,
+      "source_column": 5,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "M1",
+      "hex": "#CED9CE",
+      "canonical_221_code": "M1",
+      "source_row": 15,
+      "source_column": 6,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "M3",
+      "hex": "#74959A",
+      "canonical_221_code": "M3",
+      "source_row": 15,
+      "source_column": 7,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "M4",
+      "hex": "#ECE8D2",
+      "canonical_221_code": "M4",
+      "source_row": 15,
+      "source_column": 8,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "M5",
+      "hex": "#E1E0C0",
+      "canonical_221_code": "M5",
+      "source_row": 15,
+      "source_column": 9,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "M7",
+      "hex": "#C8C1AD",
+      "canonical_221_code": "M7",
+      "source_row": 16,
+      "source_column": 1,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "M8",
+      "hex": "#CC9392",
+      "canonical_221_code": "M8",
+      "source_row": 16,
+      "source_column": 2,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "M9",
+      "hex": "#C29B71",
+      "canonical_221_code": "M9",
+      "source_row": 16,
+      "source_column": 3,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "M10",
+      "hex": "#DEC7CD",
+      "canonical_221_code": "M10",
+      "source_row": 16,
+      "source_column": 4,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "M11",
+      "hex": "#C386A9",
+      "canonical_221_code": "M11",
+      "source_row": 16,
+      "source_column": 5,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "M12",
+      "hex": "#7E5E63",
+      "canonical_221_code": "M12",
+      "source_row": 16,
+      "source_column": 6,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "M13",
+      "hex": "#DEAD74",
+      "canonical_221_code": "M13",
+      "source_row": 16,
+      "source_column": 7,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "M14",
+      "hex": "#DF836E",
+      "canonical_221_code": "M14",
+      "source_row": 16,
+      "source_column": 8,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "M15",
+      "hex": "#869490",
+      "canonical_221_code": "M15",
+      "source_row": 16,
+      "source_column": 9,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    }
+  ]
+}

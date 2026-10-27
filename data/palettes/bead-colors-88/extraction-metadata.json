@@ -1,0 +1,1386 @@
+{
+  "count": 88,
+  "source": "../source-multi-palettes.jpg",
+  "source_sha256": "7715ba7a21eaa293ac013f1bbc8411e6d4d58d0b98227de5261c117a6abefee6",
+  "source_size": [
+    1180,
+    1536
+  ],
+  "shared_palette": "../bead-colors-221/bead-colors-221.json",
+  "shared_palette_sha256": "d9a23ec4d39e1bf92fc0541c93c5aee7e0d906c811d7bda85d5b45bfdfd8756a",
+  "rows": [
+    [
+      "X1",
+      "X2",
+      "X3",
+      "X4",
+      "X5",
+      "X6",
+      "X7",
+      "X8"
+    ],
+    [
+      "X9",
+      "X10",
+      "X11",
+      "X12",
+      "X13",
+      "X14",
+      "X15",
+      "X16"
+    ],
+    [
+      "X17",
+      "X18",
+      "X19",
+      "B12",
+      "X21",
+      "X22",
+      "X23",
+      "X24"
+    ],
+    [
+      "X25",
+      "X26",
+      "F11",
+      "X28",
+      "X29",
+      "X30",
+      "X31",
+      "X32"
+    ],
+    [
+      "X33",
+      "X34",
+      "X35",
+      "X36",
+      "X37",
+      "X38",
+      "X39",
+      "H01"
+    ],
+    [
+      "X41",
+      "H07",
+      "H02",
+      "X44",
+      "C15",
+      "X46",
+      "X47",
+      "E07"
+    ],
+    [
+      "D03",
+      "X50",
+      "X51",
+      "X52",
+      "X53",
+      "X54",
+      "X55",
+      "X56"
+    ],
+    [
+      "X57",
+      "X58",
+      "X59",
+      "X60",
+      "G08",
+      "X62",
+      "X63",
+      "X64"
+    ],
+    [
+      "X65",
+      "X66",
+      "X67",
+      "X68",
+      "X69",
+      "X70",
+      "X71",
+      "X72"
+    ],
+    [
+      "X73",
+      "X74",
+      "X75",
+      "X76",
+      "X77",
+      "X78",
+      "X79",
+      "A02"
+    ],
+    [
+      "A20",
+      "X82",
+      "X83",
+      "X84",
+      "X85",
+      "H05",
+      "X87",
+      "X88"
+    ]
+  ],
+  "method": "共有编号（包括前导零写法）复用221色HEX，保留原始编号。X系列取标签下方880个RGB像素的通道中位数，numpy.rint取整。",
+  "swatches": [
+    {
+      "code": "X1",
+      "hex": "#DF3442",
+      "canonical_221_code": null,
+      "source_row": 1,
+      "source_column": 1,
+      "origin": "image-median",
+      "sample_region_px": [
+        650,
+        156,
+        694,
+        176
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X2",
+      "hex": "#DF2A76",
+      "canonical_221_code": null,
+      "source_row": 1,
+      "source_column": 2,
+      "origin": "image-median",
+      "sample_region_px": [
+        707,
+        156,
+        751,
+        176
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X3",
+      "hex": "#F0568D",
+      "canonical_221_code": null,
+      "source_row": 1,
+      "source_column": 3,
+      "origin": "image-median",
+      "sample_region_px": [
+        765,
+        156,
+        809,
+        176
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X4",
+      "hex": "#EBF35D",
+      "canonical_221_code": null,
+      "source_row": 1,
+      "source_column": 4,
+      "origin": "image-median",
+      "sample_region_px": [
+        822,
+        156,
+        866,
+        176
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X5",
+      "hex": "#E7E433",
+      "canonical_221_code": null,
+      "source_row": 1,
+      "source_column": 5,
+      "origin": "image-median",
+      "sample_region_px": [
+        880,
+        156,
+        924,
+        176
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X6",
+      "hex": "#887219",
+      "canonical_221_code": null,
+      "source_row": 1,
+      "source_column": 6,
+      "origin": "image-median",
+      "sample_region_px": [
+        937,
+        156,
+        981,
+        176
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X7",
+      "hex": "#EDC115",
+      "canonical_221_code": null,
+      "source_row": 1,
+      "source_column": 7,
+      "origin": "image-median",
+      "sample_region_px": [
+        994,
+        156,
+        1038,
+        176
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X8",
+      "hex": "#EB3C97",
+      "canonical_221_code": null,
+      "source_row": 1,
+      "source_column": 8,
+      "origin": "image-median",
+      "sample_region_px": [
+        1052,
+        156,
+        1096,
+        176
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X9",
+      "hex": "#EC89CC",
+      "canonical_221_code": null,
+      "source_row": 2,
+      "source_column": 1,
+      "origin": "image-median",
+      "sample_region_px": [
+        650,
+        215,
+        694,
+        235
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X10",
+      "hex": "#EA3249",
+      "canonical_221_code": null,
+      "source_row": 2,
+      "source_column": 2,
+      "origin": "image-median",
+      "sample_region_px": [
+        707,
+        215,
+        751,
+        235
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X11",
+      "hex": "#F07927",
+      "canonical_221_code": null,
+      "source_row": 2,
+      "source_column": 3,
+      "origin": "image-median",
+      "sample_region_px": [
+        765,
+        215,
+        809,
+        235
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X12",
+      "hex": "#F5B618",
+      "canonical_221_code": null,
+      "source_row": 2,
+      "source_column": 4,
+      "origin": "image-median",
+      "sample_region_px": [
+        822,
+        215,
+        866,
+        235
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X13",
+      "hex": "#A4DB2B",
+      "canonical_221_code": null,
+      "source_row": 2,
+      "source_column": 5,
+      "origin": "image-median",
+      "sample_region_px": [
+        880,
+        215,
+        924,
+        235
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X14",
+      "hex": "#4FB42A",
+      "canonical_221_code": null,
+      "source_row": 2,
+      "source_column": 6,
+      "origin": "image-median",
+      "sample_region_px": [
+        937,
+        215,
+        981,
+        235
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X15",
+      "hex": "#C22F11",
+      "canonical_221_code": null,
+      "source_row": 2,
+      "source_column": 7,
+      "origin": "image-median",
+      "sample_region_px": [
+        994,
+        215,
+        1038,
+        235
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X16",
+      "hex": "#C7A444",
+      "canonical_221_code": null,
+      "source_row": 2,
+      "source_column": 8,
+      "origin": "image-median",
+      "sample_region_px": [
+        1052,
+        215,
+        1096,
+        235
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X17",
+      "hex": "#C9BF92",
+      "canonical_221_code": null,
+      "source_row": 3,
+      "source_column": 1,
+      "origin": "image-median",
+      "sample_region_px": [
+        650,
+        273,
+        694,
+        293
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X18",
+      "hex": "#2BCF71",
+      "canonical_221_code": null,
+      "source_row": 3,
+      "source_column": 2,
+      "origin": "image-median",
+      "sample_region_px": [
+        707,
+        273,
+        751,
+        293
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X19",
+      "hex": "#1A8D46",
+      "canonical_221_code": null,
+      "source_row": 3,
+      "source_column": 3,
+      "origin": "image-median",
+      "sample_region_px": [
+        765,
+        273,
+        809,
+        293
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "B12",
+      "hex": "#22844D",
+      "canonical_221_code": "B12",
+      "source_row": 3,
+      "source_column": 4,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "X21",
+      "hex": "#3982BA",
+      "canonical_221_code": null,
+      "source_row": 3,
+      "source_column": 5,
+      "origin": "image-median",
+      "sample_region_px": [
+        880,
+        273,
+        924,
+        293
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X22",
+      "hex": "#2995BF",
+      "canonical_221_code": null,
+      "source_row": 3,
+      "source_column": 6,
+      "origin": "image-median",
+      "sample_region_px": [
+        937,
+        273,
+        981,
+        293
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X23",
+      "hex": "#1B7BA4",
+      "canonical_221_code": null,
+      "source_row": 3,
+      "source_column": 7,
+      "origin": "image-median",
+      "sample_region_px": [
+        994,
+        273,
+        1038,
+        293
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X24",
+      "hex": "#101369",
+      "canonical_221_code": null,
+      "source_row": 3,
+      "source_column": 8,
+      "origin": "image-median",
+      "sample_region_px": [
+        1052,
+        273,
+        1096,
+        293
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X25",
+      "hex": "#8E5319",
+      "canonical_221_code": null,
+      "source_row": 4,
+      "source_column": 1,
+      "origin": "image-median",
+      "sample_region_px": [
+        650,
+        332,
+        694,
+        352
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X26",
+      "hex": "#C25520",
+      "canonical_221_code": null,
+      "source_row": 4,
+      "source_column": 2,
+      "origin": "image-median",
+      "sample_region_px": [
+        707,
+        332,
+        751,
+        352
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "F11",
+      "hex": "#773135",
+      "canonical_221_code": "F11",
+      "source_row": 4,
+      "source_column": 3,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "X28",
+      "hex": "#0F204C",
+      "canonical_221_code": null,
+      "source_row": 4,
+      "source_column": 4,
+      "origin": "image-median",
+      "sample_region_px": [
+        822,
+        332,
+        866,
+        352
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X29",
+      "hex": "#AA63D0",
+      "canonical_221_code": null,
+      "source_row": 4,
+      "source_column": 5,
+      "origin": "image-median",
+      "sample_region_px": [
+        880,
+        332,
+        924,
+        352
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X30",
+      "hex": "#700C6C",
+      "canonical_221_code": null,
+      "source_row": 4,
+      "source_column": 6,
+      "origin": "image-median",
+      "sample_region_px": [
+        937,
+        332,
+        981,
+        352
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X31",
+      "hex": "#5A1A74",
+      "canonical_221_code": null,
+      "source_row": 4,
+      "source_column": 7,
+      "origin": "image-median",
+      "sample_region_px": [
+        994,
+        332,
+        1038,
+        352
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X32",
+      "hex": "#687276",
+      "canonical_221_code": null,
+      "source_row": 4,
+      "source_column": 8,
+      "origin": "image-median",
+      "sample_region_px": [
+        1052,
+        332,
+        1096,
+        352
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X33",
+      "hex": "#404C50",
+      "canonical_221_code": null,
+      "source_row": 5,
+      "source_column": 1,
+      "origin": "image-median",
+      "sample_region_px": [
+        650,
+        391,
+        694,
+        411
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X34",
+      "hex": "#424D51",
+      "canonical_221_code": null,
+      "source_row": 5,
+      "source_column": 2,
+      "origin": "image-median",
+      "sample_region_px": [
+        707,
+        391,
+        751,
+        411
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X35",
+      "hex": "#3B1992",
+      "canonical_221_code": null,
+      "source_row": 5,
+      "source_column": 3,
+      "origin": "image-median",
+      "sample_region_px": [
+        765,
+        391,
+        809,
+        411
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X36",
+      "hex": "#430B6B",
+      "canonical_221_code": null,
+      "source_row": 5,
+      "source_column": 4,
+      "origin": "image-median",
+      "sample_region_px": [
+        822,
+        391,
+        866,
+        411
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X37",
+      "hex": "#BF895A",
+      "canonical_221_code": null,
+      "source_row": 5,
+      "source_column": 5,
+      "origin": "image-median",
+      "sample_region_px": [
+        880,
+        391,
+        924,
+        411
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X38",
+      "hex": "#C26945",
+      "canonical_221_code": null,
+      "source_row": 5,
+      "source_column": 6,
+      "origin": "image-median",
+      "sample_region_px": [
+        937,
+        391,
+        981,
+        411
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X39",
+      "hex": "#2BA1D0",
+      "canonical_221_code": null,
+      "source_row": 5,
+      "source_column": 7,
+      "origin": "image-median",
+      "sample_region_px": [
+        994,
+        391,
+        1038,
+        411
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "H01",
+      "hex": "#FEFEFD",
+      "canonical_221_code": "H1",
+      "source_row": 5,
+      "source_column": 8,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "X41",
+      "hex": "#603A25",
+      "canonical_221_code": null,
+      "source_row": 6,
+      "source_column": 1,
+      "origin": "image-median",
+      "sample_region_px": [
+        650,
+        450,
+        694,
+        470
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "H07",
+      "hex": "#151A1B",
+      "canonical_221_code": "H7",
+      "source_row": 6,
+      "source_column": 2,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "H02",
+      "hex": "#FFFFFD",
+      "canonical_221_code": "H2",
+      "source_row": 6,
+      "source_column": 3,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "X44",
+      "hex": "#B40C0A",
+      "canonical_221_code": null,
+      "source_row": 6,
+      "source_column": 4,
+      "origin": "image-median",
+      "sample_region_px": [
+        822,
+        450,
+        866,
+        470
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "C15",
+      "hex": "#2EC7C7",
+      "canonical_221_code": "C15",
+      "source_row": 6,
+      "source_column": 5,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "X46",
+      "hex": "#DAB582",
+      "canonical_221_code": null,
+      "source_row": 6,
+      "source_column": 6,
+      "origin": "image-median",
+      "sample_region_px": [
+        937,
+        450,
+        981,
+        470
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X47",
+      "hex": "#DEA489",
+      "canonical_221_code": null,
+      "source_row": 6,
+      "source_column": 7,
+      "origin": "image-median",
+      "sample_region_px": [
+        994,
+        450,
+        1038,
+        470
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "E07",
+      "hex": "#E73D7F",
+      "canonical_221_code": "E7",
+      "source_row": 6,
+      "source_column": 8,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "D03",
+      "hex": "#036AB3",
+      "canonical_221_code": "D3",
+      "source_row": 7,
+      "source_column": 1,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "X50",
+      "hex": "#1F78C4",
+      "canonical_221_code": null,
+      "source_row": 7,
+      "source_column": 2,
+      "origin": "image-median",
+      "sample_region_px": [
+        707,
+        508,
+        751,
+        528
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X51",
+      "hex": "#935824",
+      "canonical_221_code": null,
+      "source_row": 7,
+      "source_column": 3,
+      "origin": "image-median",
+      "sample_region_px": [
+        765,
+        508,
+        809,
+        528
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X52",
+      "hex": "#A3AFAE",
+      "canonical_221_code": null,
+      "source_row": 7,
+      "source_column": 4,
+      "origin": "image-median",
+      "sample_region_px": [
+        822,
+        508,
+        866,
+        528
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X53",
+      "hex": "#57CBC6",
+      "canonical_221_code": null,
+      "source_row": 7,
+      "source_column": 5,
+      "origin": "image-median",
+      "sample_region_px": [
+        880,
+        508,
+        924,
+        528
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X54",
+      "hex": "#ABB0DA",
+      "canonical_221_code": null,
+      "source_row": 7,
+      "source_column": 6,
+      "origin": "image-median",
+      "sample_region_px": [
+        937,
+        508,
+        981,
+        528
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X55",
+      "hex": "#7E888D",
+      "canonical_221_code": null,
+      "source_row": 7,
+      "source_column": 7,
+      "origin": "image-median",
+      "sample_region_px": [
+        994,
+        508,
+        1038,
+        528
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X56",
+      "hex": "#370D0E",
+      "canonical_221_code": null,
+      "source_row": 7,
+      "source_column": 8,
+      "origin": "image-median",
+      "sample_region_px": [
+        1052,
+        508,
+        1096,
+        528
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X57",
+      "hex": "#B7D227",
+      "canonical_221_code": null,
+      "source_row": 8,
+      "source_column": 1,
+      "origin": "image-median",
+      "sample_region_px": [
+        650,
+        567,
+        694,
+        587
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X58",
+      "hex": "#BAB793",
+      "canonical_221_code": null,
+      "source_row": 8,
+      "source_column": 2,
+      "origin": "image-median",
+      "sample_region_px": [
+        707,
+        567,
+        751,
+        587
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X59",
+      "hex": "#CD6D2C",
+      "canonical_221_code": null,
+      "source_row": 8,
+      "source_column": 3,
+      "origin": "image-median",
+      "sample_region_px": [
+        765,
+        567,
+        809,
+        587
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X60",
+      "hex": "#EE3A1C",
+      "canonical_221_code": null,
+      "source_row": 8,
+      "source_column": 4,
+      "origin": "image-median",
+      "sample_region_px": [
+        822,
+        567,
+        866,
+        587
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "G08",
+      "hex": "#95493E",
+      "canonical_221_code": "G8",
+      "source_row": 8,
+      "source_column": 5,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "X62",
+      "hex": "#4E141A",
+      "canonical_221_code": null,
+      "source_row": 8,
+      "source_column": 6,
+      "origin": "image-median",
+      "sample_region_px": [
+        937,
+        567,
+        981,
+        587
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X63",
+      "hex": "#76241E",
+      "canonical_221_code": null,
+      "source_row": 8,
+      "source_column": 7,
+      "origin": "image-median",
+      "sample_region_px": [
+        994,
+        567,
+        1038,
+        587
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X64",
+      "hex": "#50E86A",
+      "canonical_221_code": null,
+      "source_row": 8,
+      "source_column": 8,
+      "origin": "image-median",
+      "sample_region_px": [
+        1052,
+        567,
+        1096,
+        587
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X65",
+      "hex": "#D0989A",
+      "canonical_221_code": null,
+      "source_row": 9,
+      "source_column": 1,
+      "origin": "image-median",
+      "sample_region_px": [
+        650,
+        626,
+        694,
+        646
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X66",
+      "hex": "#D298BD",
+      "canonical_221_code": null,
+      "source_row": 9,
+      "source_column": 2,
+      "origin": "image-median",
+      "sample_region_px": [
+        707,
+        626,
+        751,
+        646
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X67",
+      "hex": "#D4DAD5",
+      "canonical_221_code": null,
+      "source_row": 9,
+      "source_column": 3,
+      "origin": "image-median",
+      "sample_region_px": [
+        765,
+        626,
+        809,
+        646
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X68",
+      "hex": "#DE7287",
+      "canonical_221_code": null,
+      "source_row": 9,
+      "source_column": 4,
+      "origin": "image-median",
+      "sample_region_px": [
+        822,
+        626,
+        866,
+        646
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X69",
+      "hex": "#688D9A",
+      "canonical_221_code": null,
+      "source_row": 9,
+      "source_column": 5,
+      "origin": "image-median",
+      "sample_region_px": [
+        880,
+        626,
+        924,
+        646
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X70",
+      "hex": "#538AB0",
+      "canonical_221_code": null,
+      "source_row": 9,
+      "source_column": 6,
+      "origin": "image-median",
+      "sample_region_px": [
+        937,
+        626,
+        981,
+        646
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X71",
+      "hex": "#5796CF",
+      "canonical_221_code": null,
+      "source_row": 9,
+      "source_column": 7,
+      "origin": "image-median",
+      "sample_region_px": [
+        994,
+        626,
+        1038,
+        646
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X72",
+      "hex": "#7BA5A0",
+      "canonical_221_code": null,
+      "source_row": 9,
+      "source_column": 8,
+      "origin": "image-median",
+      "sample_region_px": [
+        1052,
+        626,
+        1096,
+        646
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X73",
+      "hex": "#51976E",
+      "canonical_221_code": null,
+      "source_row": 10,
+      "source_column": 1,
+      "origin": "image-median",
+      "sample_region_px": [
+        650,
+        684,
+        694,
+        704
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X74",
+      "hex": "#20B684",
+      "canonical_221_code": null,
+      "source_row": 10,
+      "source_column": 2,
+      "origin": "image-median",
+      "sample_region_px": [
+        707,
+        684,
+        751,
+        704
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X75",
+      "hex": "#8AE37F",
+      "canonical_221_code": null,
+      "source_row": 10,
+      "source_column": 3,
+      "origin": "image-median",
+      "sample_region_px": [
+        765,
+        684,
+        809,
+        704
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X76",
+      "hex": "#9A5330",
+      "canonical_221_code": null,
+      "source_row": 10,
+      "source_column": 4,
+      "origin": "image-median",
+      "sample_region_px": [
+        822,
+        684,
+        866,
+        704
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X77",
+      "hex": "#1BAB7D",
+      "canonical_221_code": null,
+      "source_row": 10,
+      "source_column": 5,
+      "origin": "image-median",
+      "sample_region_px": [
+        880,
+        684,
+        924,
+        704
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X78",
+      "hex": "#E8B1A1",
+      "canonical_221_code": null,
+      "source_row": 10,
+      "source_column": 6,
+      "origin": "image-median",
+      "sample_region_px": [
+        937,
+        684,
+        981,
+        704
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X79",
+      "hex": "#485740",
+      "canonical_221_code": null,
+      "source_row": 10,
+      "source_column": 7,
+      "origin": "image-median",
+      "sample_region_px": [
+        994,
+        684,
+        1038,
+        704
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "A02",
+      "hex": "#FFFDE4",
+      "canonical_221_code": "A2",
+      "source_row": 10,
+      "source_column": 8,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "A20",
+      "hex": "#FCE577",
+      "canonical_221_code": "A20",
+      "source_row": 11,
+      "source_column": 1,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "X82",
+      "hex": "#E5C516",
+      "canonical_221_code": null,
+      "source_row": 11,
+      "source_column": 2,
+      "origin": "image-median",
+      "sample_region_px": [
+        707,
+        743,
+        751,
+        763
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X83",
+      "hex": "#CAB4CF",
+      "canonical_221_code": null,
+      "source_row": 11,
+      "source_column": 3,
+      "origin": "image-median",
+      "sample_region_px": [
+        765,
+        743,
+        809,
+        763
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X84",
+      "hex": "#DBA0AE",
+      "canonical_221_code": null,
+      "source_row": 11,
+      "source_column": 4,
+      "origin": "image-median",
+      "sample_region_px": [
+        822,
+        743,
+        866,
+        763
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X85",
+      "hex": "#9B2A42",
+      "canonical_221_code": null,
+      "source_row": 11,
+      "source_column": 5,
+      "origin": "image-median",
+      "sample_region_px": [
+        880,
+        743,
+        924,
+        763
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "H05",
+      "hex": "#545A64",
+      "canonical_221_code": "H5",
+      "source_row": 11,
+      "source_column": 6,
+      "origin": "221-shared",
+      "sample_region_px": null,
+      "sample_pixel_count": 0
+    },
+    {
+      "code": "X87",
+      "hex": "#2F3431",
+      "canonical_221_code": null,
+      "source_row": 11,
+      "source_column": 7,
+      "origin": "image-median",
+      "sample_region_px": [
+        994,
+        743,
+        1038,
+        763
+      ],
+      "sample_pixel_count": 880
+    },
+    {
+      "code": "X88",
+      "hex": "#7AC7DF",
+      "canonical_221_code": null,
+      "source_row": 11,
+      "source_column": 8,
+      "origin": "image-median",
+      "sample_region_px": [
+        1052,
+        743,
+        1096,
+        763
+      ],
+      "sample_pixel_count": 880
+    }
+  ]
+}

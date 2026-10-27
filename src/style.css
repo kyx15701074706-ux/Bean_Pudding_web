@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+:root {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  color: var(--color-stone-800);
+  background: var(--color-stone-100);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  --stone-50: var(--color-stone-50);
+  --stone-100: var(--color-stone-100);
+  --stone-200: var(--color-stone-200);
+  --stone-300: var(--color-stone-300);
+  --stone-400: var(--color-stone-400);
+  --stone-500: var(--color-stone-500);
+  --stone-600: var(--color-stone-600);
+  --stone-700: var(--color-stone-700);
+  --stone-800: var(--color-stone-800);
+  --orange-50: var(--color-orange-50);
+  --orange-200: var(--color-orange-200);
+  --orange-700: var(--color-orange-700);
+  --accent: var(--color-orange-700);
+  --line: var(--color-stone-200);
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
+button, input, select { font: inherit; }
+button, a, input, select { -webkit-tap-highlight-color: transparent; }
+button:disabled { cursor: not-allowed; opacity: .45; }
+button:not(:disabled):hover { filter: brightness(.97); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+input[type='checkbox'] { accent-color: var(--accent); width: 12px; height: 12px; }
+h1, h2 { text-wrap: balance; }
+h2 { font-size: 14px; font-weight: 600; }
+p { margin: 0; text-wrap: pretty; }
+.panel { background: white; border: 1px solid var(--line); border-radius: 12px; }
+.section-heading { display: flex; align-items: center; gap: 9px; margin-bottom: 18px; }
+.step-number { display: grid; place-items: center; width: 23px; height: 23px; border-radius: 6px; color: var(--accent); background: var(--orange-50); font-size: 10px; font-weight: 600; font-variant-numeric: tabular-nums; }
+.muted { color: var(--stone-500); }
+.icon-button { width: 28px; height: 28px; display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; padding: 0; border: none; border-radius: 5px; color: var(--stone-500); background: transparent; cursor: pointer; }
+.button-primary, .button-secondary { display: inline-flex; justify-content: center; align-items: center; gap: 8px; height: 41px; padding: 0 13px; border-radius: 7px; font-size: 12px; font-weight: 500; cursor: pointer; }
+.button-primary { border: 1px solid var(--accent); background: var(--accent); color: white; }
+.button-secondary { border: 1px solid var(--stone-200); color: var(--stone-700); background: white; }
+.field-error { color: var(--color-red-700); font-size: 11px; line-height: 1.7; margin-top: 9px; }

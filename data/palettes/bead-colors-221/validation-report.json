@@ -1,0 +1,127 @@
+{
+  "status": "passed",
+  "check_count": 21,
+  "numbered_color_count": 221,
+  "unique_hex_count": 221,
+  "checks": [
+    {
+      "check": "json_syntax_and_duplicate_keys",
+      "status": "passed",
+      "details": "Both JSON files parse; no duplicate keys."
+    },
+    {
+      "check": "json_structure_and_types",
+      "status": "passed",
+      "details": "Object with exactly 221 string keys and string values."
+    },
+    {
+      "check": "numbered_code_coverage_and_order",
+      "status": "passed",
+      "details": "All 221 expected numbered codes, contiguous within all 9 groups, in source order."
+    },
+    {
+      "check": "hex_format",
+      "status": "passed",
+      "details": "All 221 HEX values match uppercase #RRGGBB."
+    },
+    {
+      "check": "duplicate_color_scan",
+      "status": "passed",
+      "details": "221 distinct HEX values; no merging or repeated values."
+    },
+    {
+      "check": "bottom_group_labels_excluded",
+      "status": "passed",
+      "details": "Nine single-letter group labels excluded; M15 retained."
+    },
+    {
+      "check": "csv_schema_and_row_order",
+      "status": "passed",
+      "details": "Expected 8 columns and 221 data rows, all in source order."
+    },
+    {
+      "check": "csv_integer_types_ranges_and_rgb_hex",
+      "status": "passed",
+      "details": "RGB integer ranges, group labels and source coordinates are valid for all 221 rows."
+    },
+    {
+      "check": "json_csv_exact_match",
+      "status": "passed",
+      "details": "Every CSV code and HEX equals the JSON mapping."
+    },
+    {
+      "check": "source_copy_and_sha256",
+      "status": "passed",
+      "details": "Saved source is byte-for-byte identical to the attachment and matches recorded SHA-256."
+    },
+    {
+      "check": "source_dimensions_opacity_srgb",
+      "status": "passed",
+      "details": "1180x1556, fully opaque, embedded sRGB, metadata dimensions agree."
+    },
+    {
+      "check": "metadata_structure_types_and_code_coverage",
+      "status": "passed",
+      "details": "Metadata count, group ranges, source type, color space and 221 swatch records agree."
+    },
+    {
+      "check": "grid_geometry",
+      "status": "passed",
+      "details": "Strictly increasing integer boundaries define 10 columns and 23 rows."
+    },
+    {
+      "check": "per_color_sample_geometry",
+      "status": "passed",
+      "details": "All 442 sampling strips lie inside their cells and match the documented insets."
+    },
+    {
+      "check": "independent_recomputation_all_hex",
+      "status": "passed",
+      "details": "Recomputed all 221 colors from saved source with Pillow and statistics.median, independently of NumPy; exact agreement."
+    },
+    {
+      "check": "sampling_statistics",
+      "status": "passed",
+      "details": "948-960 pixels per color; maximum top-bottom per-channel median difference is 8/255."
+    },
+    {
+      "check": "preview_image_format_dimensions_srgb",
+      "status": "passed",
+      "details": "PNG decodes as opaque RGB, 1488x2292, embedded sRGB, metadata dimensions agree."
+    },
+    {
+      "check": "preview_all_swatches_match_data",
+      "status": "passed",
+      "details": "All 221 card fills agree with JSON at 3 text-free pixels each (663 pixel checks)."
+    },
+    {
+      "check": "preview_excluded_labels_blank",
+      "status": "passed",
+      "details": "No spurious swatches rendered in the last 9 cells."
+    },
+    {
+      "check": "documentation_matches_sampling_and_limitations",
+      "status": "passed",
+      "details": "Readme records actual sample count, numbered color count and image-derived color limitation."
+    },
+    {
+      "check": "output_file_inventory",
+      "status": "passed",
+      "details": "Only the six intended data, source, metadata, preview and readme files exist before the validation report."
+    }
+  ],
+  "manual_visual_review": "原图逐行核对全部编号和9个单字母分组标识；已查看生成色卡，编号、HEX清晰且无裁切，颜色顺序与原图一致。",
+  "code_package_checks": {
+    "lint": "not_applicable_no_source_code_changes_or_existing_package",
+    "static_type_check": "not_applicable_no_source_code_changes_or_existing_package",
+    "data_format_type_and_consistency_checks": "passed"
+  },
+  "file_sha256": {
+    "README.md": "d074d554b4729515677c050fe34a0514670b7473995d4374df246197e4013dcb",
+    "bead-colors-221-preview.png": "045b948ba7594b29851ff77d256a52aa231cbc8848e792a240e26c718f7d9b85",
+    "bead-colors-221.csv": "dca368a7720580326f1d3cd88a04466676e9d17f50b601138bced082bdc73e06",
+    "bead-colors-221.json": "d9a23ec4d39e1bf92fc0541c93c5aee7e0d906c811d7bda85d5b45bfdfd8756a",
+    "extraction-metadata.json": "62c2a96efc82e7dd1f5cde961ce8011d50d5184ff1442378b717fb6678a5f0dd",
+    "source-color-chart.png": "1f4fac28fb5d9e53d5cf87fa5d020ffe8399e9b4ada5a1067a40ab4d8f461a60"
+  }
+}
